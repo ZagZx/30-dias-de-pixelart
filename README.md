@@ -4,5 +4,5 @@
 
 <details>
     <summary>Bananananana</summary> 
-    <img src="dia01/banana/banana_print.png">
+    <img src="dia01/banana/banana.png">
 </details>
