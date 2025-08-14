@@ -13,5 +13,5 @@
     <summary>VS Code</summary> 
     <img title="1.0" src="dia02/vscode1.0.png">
     <img title="2.0" src="dia02/vscode2.0.png">
-    <img title="2.0 com borda" src="dia02/vscode2.0_borda.png">
+<!--     <img title="2.0 com borda" src="dia02/vscode2.0_borda.png"> -->
 </details>
