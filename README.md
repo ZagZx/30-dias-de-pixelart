@@ -23,3 +23,8 @@
     <img title="1.0" src="dia03/gato.png">
     <img title="2.0" src="dia03/gato2.0.png">
 </details>
+
+<details>
+    <summary>Cara meio robô bizarro que surgiu de uns rabiscos aleatórios (48x48)</summary> 
+    <img src="dia03/seila.png">
+</details>
