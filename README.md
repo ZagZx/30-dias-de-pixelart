@@ -21,4 +21,5 @@
 <details>
     <summary>Gato??? (16x16)</summary> 
     <img title="1.0" src="dia03/gato.png">
+    <img title="2.0" src="dia03/gato2.0.png">
 </details>
