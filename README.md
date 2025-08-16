@@ -15,3 +15,10 @@
     <img title="2.0" src="dia02/vscode/vscode2.0.png">
     <!-- <img title="2.0 com borda" src="dia02/vscode/vscode2.0_borda.png"> -->
 </details>
+
+## Dia 3 (15/08/2025)
+
+<details>
+    <summary>Gato???</summary> 
+    <img title="1.0" src="dia03/gato.png">
+</details>
