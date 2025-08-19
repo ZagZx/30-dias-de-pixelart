@@ -35,3 +35,11 @@
     <summary>Csharp (32x32)</summary> 
     <img title="C#" src="dia04/csharp.png">
 </details>
+
+## Dia 5 (19/08/2025)
+
+<details>
+    <summary>HTML e CSS (32x32)</summary> 
+    <img title="HTML" src="dia05/html.png">
+    <img title="CSS" src="dia05/css.png">
+</details>
