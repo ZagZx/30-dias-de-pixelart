@@ -40,6 +40,6 @@
 
 <details>
     <summary>HTML e CSS (32x32)</summary> 
-    <img title="HTML" src="dia05/html.png">
-    <img title="CSS" src="dia05/css.png">
+    <img title="HTML" src="dia05/html/html_github.png">
+    <img title="CSS" src="dia05/css/css_github.png">
 </details>
