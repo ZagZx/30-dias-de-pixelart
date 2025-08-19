@@ -28,3 +28,10 @@
     <summary>Cara meio robô bizarro que surgiu de uns rabiscos aleatórios (48x48)</summary> 
     <img src="dia03/seila.png">
 </details>
+
+## Dia 4 (18/08/2025)
+
+<details>
+    <summary>Csharp (32x32)</summary> 
+    <img title="C#" src="dia04/csharp.png">
+</details>
